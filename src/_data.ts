@@ -32,7 +32,7 @@ export const resume = {
     social: {
       GitHub: {
         name: "GitHub",
-        url: "https://github.com/hyodu",
+        url: "https://github.com/nm9h",
       },
       Telegram: {
         name: "Telegram",
@@ -63,32 +63,6 @@ export const resume = {
         {
           type: "Source",
           href: "https://github.com/Hyodu/Winter",
-        },
-      ],
-    },
-    {
-      title: "Lunar",
-      active: false,
-      description: "Telegram bot helps Moroccan students to discover all the informations about the Moroccan universities.",
-      links: [
-        {
-          type: "BoT",
-          href: "https://t.me/bfubot",
-        },
-        {
-          type: "Source",
-          href: "https://github.com/Hyodu/Lunar",
-        },
-      ],
-    },
-    {
-      title: "Moon",
-      active: false,
-      description: "Islamic Whatsapp bot teach u more about Islam religion.",
-      links: [
-        {
-          type: "Source",
-          href: "https://github.com/Hyodu/Moon",
         },
       ],
     },
