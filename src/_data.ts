@@ -28,7 +28,7 @@ export const resume = {
   ],
 
   contact: {
-    email: "hyodu8@gmail.com",
+    email: "saadxe8@gmail.com",
     social: {
       GitHub: {
         name: "GitHub",
@@ -62,7 +62,7 @@ export const resume = {
         },
         {
           type: "Source",
-          href: "https://github.com/Hyodu/Winter",
+          href: "https://github.com/nm9h/Winter",
         },
       ],
     },
