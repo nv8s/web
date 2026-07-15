@@ -8,7 +8,7 @@ export const resume = {
   locationLink: "https://www.google.com/maps/place/Casablanca",
 
   about:
-    "I’m a <strong>CS student</strong> and <strong>just a begginger right now in development</strong>, daily <a href='https://archlinux.org/' target='_blank' class='underline break-all' style='color: #a2c9eb'>Arch</a> user and <strong>GNU/Linux enthusiast</strong> exploring system programming to deepen my expertise.",
+    "I’m a <strong>Math student</strong> and <strong>tech nerd</strong>, daily <a href='https://archlinux.org/' target='_blank' class='underline break-all' style='color: #a2c9eb'>Arch</a> user and <strong>GNU/Linux enthusiast</strong> exploring system programming to deepen my expertise.",
 
   languagesSummary:
     "Using <strong>TypeScript</strong> for type safety, <strong>JavaScript</strong> for flexibility not a senior in them just a vibe coder in that moment.",
@@ -32,11 +32,11 @@ export const resume = {
     social: {
       GitHub: {
         name: "GitHub",
-        url: "https://github.com/nm9h",
+        url: "https://github.com/nv8v",
       },
       Telegram: {
         name: "Telegram",
-        url: "https://t.me/xeSaad",
+        url: "https://t.me/SetByte",
       },
       LinkedIn: {
         name: "LinkedIn",
@@ -52,19 +52,10 @@ export const resume = {
 
   projects: [
     {
-      title: "Winter",
-      active: true,
-      description: "Website teach u JavaScript basics.",
-      links: [
-        {
-          type: "Website",
-          href: "https://winter.deno.dev/",
-        },
-        {
-          type: "Source",
-          href: "https://github.com/nm9h/Winter",
-        },
-      ],
+      title: "No Projects",
+      active: false,
+      description: "No ideas tbh",
+      links: [],
     },
   ],
 } as const;
